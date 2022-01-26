@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JavaScript, Node.js, Express and other thigs about backend programming.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📚 Other work during my studies:
-  - freeCodeCamp profile: https://www.freecodecamp.org/hirehoffee
+  - [freeCodeCamp profile](https://www.freecodecamp.org/hirehoffee)
+  - [CodePen profile](https://codepen.io/hirehoffee)
 - 📫 How to reach me:
   - twitter profile: https://twitter.com/HireHoffee
 - Languages and Tools:
