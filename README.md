@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Hire-Hoffee
-- 👀 I’m interested in Web Development. Mostly in backend.
-- 🌱 I’m currently learning JavaScript, Node.js, Express and other thigs about backend programming.
+- 👀 I’m interested in Web Development. Mostly in backend, but love frontend too.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📚 Other work during my studies:
   - [freeCodeCamp profile](https://www.freecodecamp.org/hirehoffee)
   - [CodePen profile](https://codepen.io/hirehoffee)
 - 📫 How to reach me:
-  - twitter profile: https://twitter.com/HireHoffee
+  - Telegram: @HireHoffee
 - Languages and Tools:
     <p align="left"> 
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
