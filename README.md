@@ -18,7 +18,7 @@ Some applications I'd like to highlight are:
 - [MailRU email clone](https://github.com/Hire-Hoffee/Web-Mail), which demonstrates my ability to create a working mail client 📧.
 - An [online store](https://github.com/Hire-Hoffee/Game-Store) for selling video games, which demonstrates my skills in e-commerce development 🎮🛒
 - A [Telegram bot](https://github.com/Hire-Hoffee/Telegram-ChatGPT) using the OpenAI neural network, a great example of my skills with cutting-edge technology. 🤖💬
-- [Web Messenger](https://github.com/Hire-Hoffee/Web-Messenger) showcase of my web development skills, particularly in the realm of real-time communication applications. 🌐💬
+- [Web Messenger](https://github.com/Hire-Hoffee/Web-Messenger) showcases of my web development skills, particularly in the realm of real-time communication applications. 🌐💬
 
 #### 📚 Other work during my studies:
 - [freeCodeCamp profile](https://www.freecodecamp.org/hirehoffee)
