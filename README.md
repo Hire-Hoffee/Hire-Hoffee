@@ -1,6 +1,6 @@
 ### <ins>About me</ins>
 
-My name is Rostislav, I am 22 years old. I graduated from the University with a degree in Infocommunication Technologies and Communication Systems 😊 My passion for programming started when I was a kid, and I've been developing my skills ever since. 💻📚 I am interested in new technologies like neural networks, virtual reality and many others. 🌐🔍
+My name is Rostislav, I am 22 years old. I graduated from the University with a degree in Infocommunication Technologies and Communication Systems 💻📚 I am interested in new technologies like neural networks, virtual reality and many others. 🌐🔍
 
 ### <ins>Education</ins>
 
