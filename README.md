@@ -1,35 +1,70 @@
-### <ins>About me</ins>
+# 👋 Hi, I'm Rostislav (HireHoffee)
 
-My name is Rostislav, I am 23 years old. I graduated from the University with a degree in Infocommunication Technologies and Communication Systems 💻📚 I am interested in new technologies like neural networks, virtual reality and many others. 🌐🔍
+I'm a **frontend developer** with a passion for building efficient and user-friendly applications using modern web technologies. With experience in React, Next.js, TypeScript, and more, I focus on creating impactful digital solutions. 🚀
 
-### <ins>Education</ins>
+## 📖 About Me
 
-BFU University, Infocommunication Technology and Communication Systems, 2019-2023 🎓
+- 🎓 **Education:** Bachelor’s in Infocommunication Technologies and Communication Systems, BFU University (2019-2023).
+- 🛠️ **Experience:** 2+ years of self-study and pet projects, plus 5 months of commercial development experience across two companies.
+- 🌍 **Location:** Based in Kaliningrad, Russia, open to relocation (Moscow, St. Petersburg) or remote opportunities.
+- 🎯 **Objective:** Looking for roles where I can grow and contribute to exciting, meaningful projects.
 
-### <ins>Work experience</ins>
+## 🛠️ Tech Stack
 
-I have 2 years of experience in application development, my core skills include `JavaScript`, `HTML`, `CSS`, `React`, `TypeScript`, `NodeJS`, API experience, database experience, and a general understanding of the backend including API creation principles. 🖥️🛠️ I have also worked with other frameworks and technologies like `VueJS`, `Tailwind`, `Bootstrap`, `Styled-Components`, `ExpressJS`. 💪
+- **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Material UI, Tailwind, Styled-Components, SCSS.
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL.
+- **Tools:** Git, Docker, Webpack, Figma, Agile/Scrum.
+- **Other:** PWA development, animations (react-spring), localization (i18next).
 
-### <ins>Pet - projects</ins>
+## 🌟 Experience Highlights
 
-I have several projects on GitHub (https://github.com/Hire-Hoffee) that showcase my development skills. 🚀
-Some applications I'd like to highlight are:
+### **Frontend Developer – Antipoff Group** (June 2024 – August 2024)
 
-- [MailRU email clone](https://github.com/Hire-Hoffee/Web-Mail), which demonstrates my ability to create a working mail client 📧.
-- An [online store](https://github.com/Hire-Hoffee/Game-Store) for selling video games, which demonstrates my skills in e-commerce development 🎮🛒
-- A [Telegram bot](https://github.com/Hire-Hoffee/Telegram-ChatGPT) using the OpenAI neural network, a great example of my skills with cutting-edge technology. 🤖💬
-- [Web Messenger](https://github.com/Hire-Hoffee/Web-Messenger) showcases of my web development skills, particularly in the realm of real-time communication applications. 🌐💬
+Developed the **"Creative Hub"**, a platform for creative professionals combining features of LinkedIn, Habr, and HH.
 
-#### 📚 Other work during my studies:
+- Built responsive interfaces with **React/Next.js** and **TypeScript**.
+- Integrated **multilingual support** using i18next.
+- Improved code quality through refactoring and bug fixing.  
+  [🔗 Project link](https://creativehub.dev.iamrobot.xyz)
+
+### **Frontend Developer – Bogoda Digital Pro** (June 2024 – July 2024)
+
+Worked on **Guider**, a platform for discovering local services and leisure spots in Costa Rica.
+
+- Designed adaptive UI/UX for web and mobile.
+- Added animations with **react-spring**.
+- Implemented **authentication forms** and enhanced SEO with OpenGraph.  
+  [🔗 Project link](https://guider.pro)
+
+## 🖥️ Featured Projects
+
+Here are some personal projects showcasing my skills:
+
+1. **[Mail Client](https://github.com/Hire-Hoffee/Web-Mail)**
+
+   - Functions: Email viewing, filtering, infinite scroll, themes, localization.
+   - Stack: React, Redux, Node.js, MongoDB.  
+     [🔗 Demo](http://petwebmail.freemyip.com)
+
+2. **[Game Store](https://github.com/Hire-Hoffee/Game-Store)**
+
+   - Features: Game purchases, reviews, ratings, search, responsive design.
+   - Stack: Vue.js, Tailwind CSS, Node.js, JWT authentication.  
+     [🔗 Demo](http://petgamemuffin.freemyip.com)
+
+3. **[Web Messenger](https://github.com/Hire-Hoffee/Web-Messenger)**
+   - Functions: Real-time messaging, user search, chat creation, themes.
+   - Stack: Next.js, Material UI, Apollo Server, Prisma ORM.  
+     [🔗 Demo](http://petchatscape.freemyip.com)
+
+Explore more on my GitHub: [Hire-Hoffee](https://github.com/Hire-Hoffee)
+
+## 📚 Other work during my studies:
+
 - [freeCodeCamp profile](https://www.freecodecamp.org/hirehoffee)
 - [CodePen profile](https://codepen.io/hirehoffee)
 
-#### 📫 How to reach me:
-- Email: hirehoffeedev@gmail.com
-- Telegram: @HireHoffee
+## 📫 Let's Connect
 
-
-<!---
-Hire-Hoffee/Hire-Hoffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Email:** mr.rostik.01@gmail.com
+- **Telegram:** [@HireHoffee](https://t.me/HireHoffee)
