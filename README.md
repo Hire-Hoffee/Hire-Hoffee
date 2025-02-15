@@ -27,7 +27,7 @@ Developed the **"Creative Hub"**, a platform for creative professionals combinin
 - Improved code quality through refactoring and bug fixing.  
   [🔗 Project link](https://creativehub.dev.iamrobot.xyz)
 
-### **Frontend Developer – Bogoda Digital Pro** (June 2024 – July 2024)
+### **Frontend Developer – Bogoda Digital Pro** (April 2024 - May 2024)
 
 Worked on **Guider**, a platform for discovering local services and leisure spots in Costa Rica.
 
