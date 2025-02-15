@@ -44,18 +44,18 @@ Here are some personal projects showcasing my skills:
 
    - Functions: Email viewing, filtering, infinite scroll, themes, localization.
    - Stack: React, Redux, Node.js, MongoDB.  
-     [🔗 Demo](http://petwebmail.freemyip.com) or [🔗 Demo](http://petwebmail.ydns.eu)
+     [🔗 Demo](http://petwebmail.ydns.eu)
 
 2. **[Game Store](https://github.com/Hire-Hoffee/Game-Store)**
 
    - Features: Game purchases, reviews, ratings, search, responsive design.
    - Stack: Vue.js, Tailwind CSS, Node.js, JWT authentication.  
-     [🔗 Demo](http://petgamemuffin.freemyip.com) or [🔗 Demo](http://petgamemuffin.ydns.eu)
+     [🔗 Demo](http://petgamemuffin.ydns.eu)
 
 3. **[Web Messenger](https://github.com/Hire-Hoffee/Web-Messenger)**
    - Functions: Real-time messaging, user search, chat creation, themes.
    - Stack: Next.js, Material UI, Apollo Server, Prisma ORM.  
-     [🔗 Demo](http://petchatscape.freemyip.com) or [🔗 Demo](http://petchatscape.ydns.eu)
+     [🔗 Demo](http://petchatscape.ydns.eu)
 
 Explore more on my GitHub: [Hire-Hoffee](https://github.com/Hire-Hoffee)
 
